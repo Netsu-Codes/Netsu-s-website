@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Netsu's Website!</title>
+    </head>
+<style>
+    .box{
+        max-width: 1000px;
+        margin: 50px auto;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: 250px auto;
+    }
+    header,nav,main,footer{ 
+        border: Black 2px solid;
+    }
+    header{
+        grid-column: 1/4;
+        grid-row: 1/2;
+    }
+    nav{
+        grid-column: 1/2;
+        grid-row: 2/2;
+        height: max-content;
+    }
+    main{
+        grid-column: 2/4;
+        grid-row: 2/3;
+        height: max-content;
+    }
+    footer{
+        grid-column: 2/4;
+        grid-row: 3/4;
+    }
+    body {
+  background-color: #55A9A0;
+    }
+</style>
+
+    <body>
+        
+        <div class="box">
+
+            <header><h1>Netsu's Website!</h1></header>
+
+            <nav>
+                <h2>Navigation</h2>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                </ul>
+                <img src="" alt="Netsu's Profile Picture" width="200" height="200">
+            </nav>
+
+            <main><h1>Welcome to Netsu's Website!</h1>
+            <p>Hello there! You can call me Netsu! I'm an aspiring game developer! 
+                For now the only language I know is Python, but I'm eager to learn more!
+                I normally work on godot and somehow always manage to corrupt my projects, rip for all the projects I've lost so far lol! 
+                I'm an artist so i can do my own art and assets, with a lot of work that is, i still have to learn how to properly render digital art!
+            </p>
+            </main>
+
+            <footer><h1></h1></footer>
+
+        </div>
+
+    </body>
+
+</html>
