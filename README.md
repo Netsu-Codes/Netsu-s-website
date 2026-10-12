@@ -8,4 +8,4 @@ Tutorials:
  
  Style and images:
  ⫸ Color palette: https://colorhunt.co/palette/287a7455a9a0aeeed3fff8b0
- ⫸ Pfp image from Pinter  est( temporal until i find a way to Upload my own drawings)
+ ⫸ Pfp image from Pinterest( temporal until i find a way to Upload my own drawings)
