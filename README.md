@@ -22,7 +22,7 @@ For example this is how my website looked when I tried to do it alone without wa
 <img width="376" height="381" alt="Screenshot 2026-10-09 005633" src="https://github.com/user-attachments/assets/c8883e0c-c120-4e6d-98f6-9920bfdd54a4" />
 
 
-After following a tutorial and understanding forthe website dance(After ↓)
+After following a tutorial and understanding how to properly make a website I managed to make it look like I wanted!(After ↓)
 <img width="652" height="391" alt="Screenshot 2026-10-12 131040" src="https://github.com/user-attachments/assets/d01590b6-5986-4994-a6b7-b02146a0952d" />
 
 
